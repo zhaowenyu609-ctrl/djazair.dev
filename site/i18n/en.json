@@ -1636,5 +1636,8 @@
     "share": "Share djazair.dev",
     "link_copied": "Link copied. Send it to someone who might want to join.",
     "copy_failed": "Could not share the link. You can copy the page address instead."
+    "extract_data_string_canonical_html_page": "Canonical HTML page",
+    "extract_data_string_csv_json": "CSV and JSON",
+    "extract_data_string_column_definitions_formulas": "Column definitions and formulas"
   }
 }
